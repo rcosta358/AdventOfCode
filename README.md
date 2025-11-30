@@ -11,11 +11,11 @@ My solutions for the [Advent Of Code](https://adventofcode.com) coding puzzles w
 | 2018 | 0 ⭐  | 
 | 2019 | 0 ⭐  |
 | 2020 | 0 ⭐  |
-| 2021 | 4 ⭐  |
+| 2021 | 6 ⭐  |
 | 2022 | 36 ⭐ |
 | 2023 | 8 ⭐  |
 | 2024 | 14 ⭐ |
 
-Total Stars: 62 ⭐
+Total Stars: 64 ⭐
 
 <img src="./advent_of_code.png">
