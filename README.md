@@ -2,8 +2,6 @@
 
 My solutions for the [Advent Of Code](https://adventofcode.com) coding puzzles with [Python](https://www.python.org/)
 
-<img src="../header.png" height="200px"/>
-
 ## Statistics
 | Year | Stars  |
 | ---- | ------ |
