@@ -5,17 +5,18 @@ My solutions for the [Advent Of Code](https://adventofcode.com) coding puzzles w
 ## Statistics
 | Year | Stars  |
 | ---- | ------ |
-| 2015 | 0 ⭐  |
-| 2016 | 0 ⭐  |
-| 2017 | 0 ⭐  |
-| 2018 | 0 ⭐  | 
-| 2019 | 0 ⭐  |
-| 2020 | 0 ⭐  |
-| 2021 | 6 ⭐  |
-| 2022 | 36 ⭐ |
-| 2023 | 8 ⭐  |
+| 2025 | 2 ⭐  |
 | 2024 | 14 ⭐ |
+| 2023 | 8 ⭐  |
+| 2022 | 36 ⭐ |
+| 2021 | 6 ⭐  |
+| 2020 | 0 ⭐  |
+| 2019 | 0 ⭐  |
+| 2018 | 0 ⭐  | 
+| 2017 | 0 ⭐  |
+| 2016 | 0 ⭐  |
+| 2015 | 0 ⭐  |
 
-Total Stars: 64 ⭐
+Total Stars: 66 ⭐
 
 <img src="./advent_of_code.png">
