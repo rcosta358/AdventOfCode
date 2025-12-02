@@ -5,7 +5,7 @@ My solutions for the [Advent Of Code 2025](https://adventofcode.com/2025) coding
 | Day | Name                                                             | Stars |
 | --- | ---------------------------------------------------------------- | ----- |
 | 01  | [Secret Entrance](https://adventofcode.com/2025/day/1)           | ⭐⭐ |
-| 02  |                                                                  |       |
+| 02  | [Gift Shop](https://adventofcode.com/2025/day/2)                 | ⭐⭐ |
 | 03  |                                                                  |       |
 | 04  |                                                                  |       |
 | 05  |                                                                  |       |
