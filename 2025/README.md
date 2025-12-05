@@ -8,7 +8,7 @@ My solutions for the [Advent Of Code 2025](https://adventofcode.com/2025) coding
 | 02  | [Gift Shop](https://adventofcode.com/2025/day/2)                 | ⭐⭐ |
 | 03  | [Lobby](https://adventofcode.com/2025/day/3)                     | ⭐⭐ |
 | 04  | [Printing Department](https://adventofcode.com/2025/day/4)       | ⭐⭐ |
-| 05  |                                                                  |       |
+| 05  | [Cafeteria](https://adventofcode.com/2025/day/5)                 | ⭐⭐ |
 | 06  |                                                                  |       |
 | 07  |                                                                  |       |
 | 08  |                                                                  |       |
