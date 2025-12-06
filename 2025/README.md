@@ -9,7 +9,7 @@ My solutions for the [Advent Of Code 2025](https://adventofcode.com/2025) coding
 | 03  | [Lobby](https://adventofcode.com/2025/day/3)                     | ⭐⭐ |
 | 04  | [Printing Department](https://adventofcode.com/2025/day/4)       | ⭐⭐ |
 | 05  | [Cafeteria](https://adventofcode.com/2025/day/5)                 | ⭐⭐ |
-| 06  |                                                                  |       |
+| 06  | [Trash Compactor](https://adventofcode.com/2025/day/6)           | ⭐⭐ |
 | 07  |                                                                  |       |
 | 08  |                                                                  |       |
 | 09  |                                                                  |       |
