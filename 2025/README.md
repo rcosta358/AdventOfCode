@@ -12,7 +12,7 @@ My solutions for the [Advent Of Code 2025](https://adventofcode.com/2025) coding
 | 06  | [Trash Compactor](https://adventofcode.com/2025/day/6)           | ⭐⭐ |
 | 07  | [Laboratories](https://adventofcode.com/2025/day/7)              | ⭐⭐ |
 | 08  | [Playground](https://adventofcode.com/2025/day/8)                | ⭐⭐ |
-| 09  |                                                                  |       |
+| 09  | [Movie Theater](https://adventofcode.com/2025/day/9)             | ⭐⭐ |
 | 10  |                                                                  |       |
 | 11  |                                                                  |       |
 | 12  |                                                                  |       |
