@@ -13,7 +13,7 @@ My solutions for the [Advent Of Code 2025](https://adventofcode.com/2025) coding
 | 07  | [Laboratories](https://adventofcode.com/2025/day/7)              | ⭐⭐ |
 | 08  | [Playground](https://adventofcode.com/2025/day/8)                | ⭐⭐ |
 | 09  | [Movie Theater](https://adventofcode.com/2025/day/9)             | ⭐⭐ |
-| 10  |                                                                  |       |
+| 10  | [Factory](https://adventofcode.com/2025/day/10)                  | ⭐⭐ |
 | 11  |                                                                  |       |
 | 12  |                                                                  |       |
 
