@@ -14,6 +14,6 @@ My solutions for the [Advent Of Code 2025](https://adventofcode.com/2025) coding
 | 08  | [Playground](https://adventofcode.com/2025/day/8)                | ⭐⭐ |
 | 09  | [Movie Theater](https://adventofcode.com/2025/day/9)             | ⭐⭐ |
 | 10  | [Factory](https://adventofcode.com/2025/day/10)                  | ⭐⭐ |
-| 11  |                                                                  |       |
+| 11  | [Reactor](https://adventofcode.com/2025/day/11)                  | ⭐⭐ |
 | 12  |                                                                  |       |
 
