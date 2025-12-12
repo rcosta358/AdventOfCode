@@ -5,7 +5,7 @@ My solutions for the [Advent Of Code](https://adventofcode.com) coding puzzles w
 ## Statistics
 | Year | Stars  |
 | ---- | ------ |
-| 2025 | 22 ⭐  |
+| 2025 | 24 ⭐  |
 | 2024 | 14 ⭐ |
 | 2023 | 8 ⭐  |
 | 2022 | 36 ⭐ |
@@ -17,4 +17,4 @@ My solutions for the [Advent Of Code](https://adventofcode.com) coding puzzles w
 | 2016 | 0 ⭐  |
 | 2015 | 0 ⭐  |
 
-Total Stars: 86 ⭐
+Total Stars: 88 ⭐
